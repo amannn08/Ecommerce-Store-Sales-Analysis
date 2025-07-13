@@ -53,7 +53,7 @@ The **Madhav E-Commerce Sales Dashboard** presents a holistic view of sales, pro
 
 ## 🖼️ Dashboard Highlights
 
-> ![Dashboard Preview](./51f9a09c-b90b-4a54-897c-b2f58ea4dc3c.png)
+> ![Dashboard Preview](./Screenshot%202025-07-13%20172801.png)
 
 - **Top KPIs** are presented at the top for instant review
 - **Quarter-wise filter** helps explore seasonal variations
