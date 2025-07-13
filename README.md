@@ -1,27 +1,75 @@
-# Ecommerce Store Sales Analysis
+# 🛍️ Madhav E-Commerce Sales Dashboard
 
-## Overview
-This project focuses on visualizing key performance metrics for an **eCommerce store** using **Power BI**. The goal is to provide actionable insights into various aspects of the store's operations, including **sales performance, customer behavior,** and **product trends**. The visualizations help stakeholders make **data-driven decisions** to enhance overall business strategy.
+An interactive Power BI dashboard designed to monitor and analyze **e-commerce sales performance** across various dimensions such as product categories, states, customers, and time periods. This dashboard enables quick and effective decision-making for stakeholders.
 
-## Features:
-- **Sales Dashboard**: Overview of total sales, average order value, and sales trends over time.
-- **Customer Segmentation**: Visualizations showing customer demographics, purchase behavior, and segmentation.
-- **Product Performance**: Analysis of top-selling products, product categories, and inventory levels.
-- **Geographical Insights**: Maps displaying sales distribution by region and top-performing locations.
-- **Time-Series Analysis**: Insights into sales performance across different time periods, including peak seasons and trends.
+---
 
-## Technology Stack:
-- **Data Source**: CSV files containing sales, customer, and product data.
-- **Data Visualization Tool**: Power BI
+## 📌 Table of Contents
 
-## Usage:
-The dashboard provides a **comprehensive view** of the eCommerce store's performance. Users can interact with various filters, slicers, and visual elements to explore different aspects of the data.
+- [Project Overview](#project-overview)
+- [Tech Stack](#tech-stack)
+- [Key Metrics](#key-metrics)
+- [Dashboard Highlights](#dashboard-highlights)
+- [Insights & Observations](#insights--observations)
+- [How to Use](#how-to-use)
+- [Contact](#contact)
 
-## Key Sections:
-- **Sales Overview**: Check overall sales metrics and drill down into specific time periods.
-- **Customer Insights**: Explore customer segments and purchasing patterns.
-- **Product Analysis**: Identify top-performing products and manage inventory.
-- **Geographical Data**: Analyze sales across different regions.
+---
 
-## Contribution
-Feel free to contribute to this project by submitting a pull request. Any improvements to visualizations, data processing, or additional features are welcome.
+## 📊 Project Overview
+
+The **Madhav E-Commerce Sales Dashboard** presents a holistic view of sales, profit, and quantity data for an e-commerce business. Built entirely using **Power BI**, the dashboard leverages visual storytelling to help users:
+- Track profit trends month-wise
+- Understand customer purchase behavior
+- Evaluate regional sales distribution
+- Identify high-performing product sub-categories
+
+---
+
+## 💻 Tech Stack
+
+- **Tool Used**: Power BI  
+- **Data Source**: E-Commerce Excel/CSV Dataset  
+- **Data Transformation**: Power Query  
+- **Visualization Components**:
+  - Doughnut Chart
+  - Stacked/Bar Charts
+  - Line Charts
+  - KPI Cards
+  - Slicers for interactivity
+
+---
+
+## 📈 Key Metrics
+
+- **Sum of Profit**
+- **Sum of Sales Amount**
+- **Total Quantity Sold**
+- **Average Order Value (AOV)**
+- **Profit by Month**
+- **Sales by State & Customer**
+
+---
+
+## 🖼️ Dashboard Highlights
+
+> ![Dashboard Preview](./51f9a09c-b90b-4a54-897c-b2f58ea4dc3c.png)
+
+- **Top KPIs** are presented at the top for instant review
+- **Quarter-wise filter** helps explore seasonal variations
+- **Customer and state-based sales** displayed via bar graphs
+- **Product sub-categories** analyzed by profit contribution
+- **Interactive filters** enhance the user experience
+
+---
+
+## 📌 Insights & Observations
+
+- **Clothing** accounts for over **60% of quantity sold**, making it the highest-selling category.
+- **Printers** generate the highest profit among sub-categories.
+- **Harivansh** is the top customer in terms of purchase amount.
+- **Maharashtra** leads in total sales across all states.
+- The company experiences **profit dips mid-year**, with a recovery in Q4.
+- **March, April, and May** show negative or declining profit, indicating possible seasonal or operational inefficiencies.
+
+---
